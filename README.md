@@ -6,8 +6,6 @@ Python, Power BI, Excel, and scikit-learn.
 
 **Dataset:** [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) (Kaggle), 7,043 customers, 21 columns.
 
-**Live showcase:** `churn-showcase.jsx` — interactive walkthrough of every stage below.
-
 ---
 
 ## Why this project exists
